@@ -58,14 +58,15 @@ MARCO TEORICO:
 
 4. VIDEO:
 
+https://www.youtube.com/watch?v=aNaMVq6NbPo
 
 5.CONCLUSIONES
 
-Utilizando la resolución de estos ejercicios, se concluyó que un filtro de paso bajo permite el paso de señales de baja frecuencia, a diferencia de un filtro de paso alto, que permite el paso de señales de alta frecuencia.
+• Utilizando la resolución de estos ejercicios, se concluyó que un filtro de paso bajo permite el paso de señales de baja frecuencia, a diferencia de un filtro de paso alto, que permite el paso de señales de alta frecuencia.
 
-Se establece que un circuito en serie RLC consta de una resistencia, un inductor y un capacitor, y el voltaje entre el capacitor y el inductor siempre es diferente en 180°.
+• Se establece que un circuito en serie RLC consta de una resistencia, un inductor y un capacitor, y el voltaje entre el capacitor y el inductor siempre es diferente en 180°.
 
-Finalmente, uno de los conceptos clave son los filtros de paso de banda, que le permiten pasar señales dentro de un cierto intervalo de frecuencia si la frecuencia excede el intervalo y cancelar, los filtros de supresión de banda son lo opuesto al rango de frecuencia.
+• Finalmente, uno de los conceptos clave son los filtros de paso de banda, que le permiten pasar señales dentro de un cierto intervalo de frecuencia si la frecuencia excede el intervalo y cancelar, los filtros de supresión de banda son lo opuesto al rango de frecuencia.
 
 6. BIBLIOGRAFÍA:
 
