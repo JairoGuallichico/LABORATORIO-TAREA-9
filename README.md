@@ -41,4 +41,32 @@ MARCO TEORICO:
 ![image](https://user-images.githubusercontent.com/116815201/221339966-6ade3874-24a7-478e-a670-805d684f6a73.png)
 ![image](https://user-images.githubusercontent.com/116815201/221339995-d6855009-f7dc-4d6d-befc-555cf0a76f7e.png)
 ![image](https://user-images.githubusercontent.com/116815201/221340021-05288b33-56d3-4f2f-9ad3-68303b3f4dba.png)
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/116815201/221340124-6d29bbef-8e54-49ba-b649-7b89fa24a0f0.png)
+![image](https://user-images.githubusercontent.com/116815201/221340151-6954fb24-947a-45ee-a656-6cadedc28ece.png)
+![image](https://user-images.githubusercontent.com/116815201/221340172-49b082e6-12ba-41b0-9c00-197a509c0549.png)
+![image](https://user-images.githubusercontent.com/116815201/221340199-f335ee06-7966-432b-adec-2d9066e0b28c.png)
+![image](https://user-images.githubusercontent.com/116815201/221340214-ec0b6c12-3b35-4c44-baa5-45b3c5b1fd4b.png)
+![image](https://user-images.githubusercontent.com/116815201/221340226-a3e5eaf1-c62e-4f47-859f-6cb464cf1e51.png)
+![image](https://user-images.githubusercontent.com/116815201/221340238-f69cd341-fda2-4ae1-a759-8136f52ea529.png)
+![image](https://user-images.githubusercontent.com/116815201/221340265-0a871955-51bd-4dba-8296-3b64a34c3d94.png)
+![image](https://user-images.githubusercontent.com/116815201/221340276-a30783ae-ef48-4b80-882a-5504bf46c654.png)
+![image](https://user-images.githubusercontent.com/116815201/221340285-58fec3a7-b761-40cd-8600-ae0b8be85950.png)
+![image](https://user-images.githubusercontent.com/116815201/221340294-f01a4253-b648-41ad-959d-9beafdef3d58.png)
+![image](https://user-images.githubusercontent.com/116815201/221340305-457fd006-3ea6-4335-8cc7-55b526613afe.png)
+![image](https://user-images.githubusercontent.com/116815201/221340314-e8a38177-c742-4e64-815b-05484f57c384.png)
+![image](https://user-images.githubusercontent.com/116815201/221340351-7790de06-01f5-40cc-85dd-d22a2fef0561.png)
+
+4. VIDEO:
+
+
+5.CONCLUSIONES
+
+Utilizando la resolución de estos ejercicios, se concluyó que un filtro de paso bajo permite el paso de señales de baja frecuencia, a diferencia de un filtro de paso alto, que permite el paso de señales de alta frecuencia.
+
+Se establece que un circuito en serie RLC consta de una resistencia, un inductor y un capacitor, y el voltaje entre el capacitor y el inductor siempre es diferente en 180°.
+
+Finalmente, uno de los conceptos clave son los filtros de paso de banda, que le permiten pasar señales dentro de un cierto intervalo de frecuencia si la frecuencia excede el intervalo y cancelar, los filtros de supresión de banda son lo opuesto al rango de frecuencia.
+
+6. BIBLIOGRAFÍA:
+
+Floyd, T. (2007). Principios de circuitos electricos (Octava edi). México: Pearson.
